@@ -66,5 +66,4 @@ This dashboard analyzes **1,500 order line-items** to understand where revenue c
 3. Hover over charts for detailed tooltips.
 
 ---
-👤 **Author:** Harmant (Harendra Mani Tripathi)
-🔗 [GitHub](https://github.com/Harmant05) • [LinkedIn](https://linkedin.com/in/harmant)
+👤 **Author:** **Harendra Mani Tripathi**
